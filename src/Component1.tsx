@@ -7,11 +7,8 @@ export const Component1: FC = () => {
   const count = useSelector((state: RootState) => state.counter.count);
   const valueInput = useSelector((state: RootInput) => state.input.value);
   let c = ;
-  efasdef
-  asfc
-  asdfvluhi
-ждошанвоке
-sdfhfsdhf
+  efas
+
 
 
   return (
