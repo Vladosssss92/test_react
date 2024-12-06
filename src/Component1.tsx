@@ -9,6 +9,7 @@ export const Component1: FC = () => {
   let c = ;
   efasdef
   asfc
+  asdfv
 
   return (
     <>
