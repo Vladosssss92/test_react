@@ -1,0 +1,28 @@
+.test {
+  color: red;
+  font-size: xx-large;
+}
+
+.wrapper {
+  border: 3px solid orange;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgba(164, 103, 122, 0.263);
+}
+
+p, span {
+  font-size: larger;
+  color: rgb(0, 79, 122);
+}
+
+.input,
+.button {
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 7px;
+  margin-right: 10px;
+}
+
+.button {
+  cursor: pointer;
+}
