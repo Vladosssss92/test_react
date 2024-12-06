@@ -4,9 +4,10 @@ import { RootInput, RootState } from "./model";
 import { FC } from "react";
 
 export const Component1: FC = () => {
+  console.log(count);
   const count = useSelector((state: RootState) => state.counter.count);
   const valueInput = useSelector((state: RootInput) => state.input.value);
-  console.log(23);
+  let c = 
 
   return (
     <>
