@@ -8,6 +8,7 @@ export const Component1: FC = () => {
   const valueInput = useSelector((state: RootInput) => state.input.value);
   let c = ;
   efasdef
+  asfc
 
   return (
     <>
