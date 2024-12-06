@@ -10,8 +10,8 @@ export const Component1: FC = () => {
   efasdef
   asfc
   asdfv
+ждош
 
-  
 
   return (
     <>
